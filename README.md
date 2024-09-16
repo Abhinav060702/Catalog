@@ -1,7 +1,6 @@
 # Catalog
 
 # Compile the program with a C++ compiler (e.g., g++).
-# g++ -o lagrange_interpolation lagrange_interpolation.cpp -ljsoncpp
 # Dependencies :
 # nlohmann/json: A single-header library for JSON parsing.
 # Ensure you have the library installed and properly linked in your build environment.
